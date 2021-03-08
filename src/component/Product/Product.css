@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid #ddd;
+}
+.product-info{
+    padding: 0 15px;
+}
+.main-button{
+    background: #dcbc1f;
+    width: 130px;
+    height: 30px;
+    font-size: 16px;
+    color: #151313;
+    border-radius: 5px;
+    margin: 15px 0;
+    cursor: pointer;
+}
